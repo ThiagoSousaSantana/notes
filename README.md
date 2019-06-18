@@ -1,2 +1,2 @@
 # Notes
-This is a sample web-service Spring boot with Kotlin
+Notes é um exemplo de Web-service feito em Kotlin com o Spring boot
