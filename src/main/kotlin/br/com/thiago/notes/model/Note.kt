@@ -11,5 +11,6 @@ data class Note (
         @JsonProperty(value = "id", access = JsonProperty.Access.READ_ONLY)
         val id : Long = 0L,
         val title: String = "",
-        val description: String = ""
+        val description: String = "",
+        var server: String = ""
 )
